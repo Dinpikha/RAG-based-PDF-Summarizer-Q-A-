@@ -13,9 +13,9 @@ Import PDFs → Docling → ChromaDB → Streamlit UI → Ollama (llama3.2:3b) �
 
 ## Demo
 
-<img src="images/upload_demo.jpeg" alt="Upload Demo" width="600">
+<img src="foodatthehotel.jpeg" alt="Upload Demo" width="600">
 
-<img src="images/summary_demo.jpeg" alt="Summary Demo" width="600">
+<img src="modelsummarizestheproteincheatsheet .jpeg" alt="Summary Demo" width="600">
 
 ---
 
